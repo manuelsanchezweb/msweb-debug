@@ -1,0 +1,18 @@
+{
+  "name": "mswebdebug",
+  "version": "1.0.4",
+  "description": "Asistente para hacer console log por grupos",
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "watch": "tsc -w",
+    "prepublish": "tsc"
+  },
+  "keywords": [],
+  "author": "Manuel Sánchez",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
